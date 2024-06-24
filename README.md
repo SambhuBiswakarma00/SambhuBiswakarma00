@@ -1,8 +1,4 @@
-![1_DluPjzT_eTUFdzHCI7JBZA](https://github.com/SambhuBiswakarma00/SambhuBiswakarma00/assets/142966523/831467ef-3d85-4297-930f-734a35da324d)
-
-
-
-
+![1_mqv03KrlG5LK2XU1uV4LJg](https://github.com/SambhuBiswakarma00/SambhuBiswakarma00/assets/142966523/a44c9ae6-124e-4f3b-9ac5-05cbed47ec9b)
 
 
 <h1 align="center">Hi 👋, I'm Sambhu Biswakarma</h1>
