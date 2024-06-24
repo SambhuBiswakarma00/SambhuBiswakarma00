@@ -31,11 +31,8 @@
 <p align="left"> 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,kubernetes,docker,terraform,linux,jenkins,ansible,python, bash,nginx, trivy, sonarqube, prometheus, grafana" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,kubernetes,docker,terraform,linux,jenkins,ansible,python,nginx,bash,grafana,prometheus" />
   </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambhubiswakarma00&show_icons=true&locale=en&layout=compact" alt="sambhubiswakarma00" /></p>
